@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nöjesfältet", "GamlaTentor\Nöjesfältet.csproj", "{8EA93960-0DD6-4DBF-AE12-9AE4D5EF8D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HönanEllerÄgget", "HönanEllerÄgget\HönanEllerÄgget.csproj", "{6EBBDCC5-10AE-436E-A99E-833F01D50EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA93960-0DD6-4DBF-AE12-9AE4D5EF8D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA93960-0DD6-4DBF-AE12-9AE4D5EF8D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA93960-0DD6-4DBF-AE12-9AE4D5EF8D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA93960-0DD6-4DBF-AE12-9AE4D5EF8D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBBDCC5-10AE-436E-A99E-833F01D50EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBBDCC5-10AE-436E-A99E-833F01D50EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBBDCC5-10AE-436E-A99E-833F01D50EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBBDCC5-10AE-436E-A99E-833F01D50EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95B99998-A8ED-4F8D-96C0-8088249003DC}
+	EndGlobalSection
+EndGlobal
