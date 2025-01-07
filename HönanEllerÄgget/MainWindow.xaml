@@ -44,7 +44,8 @@
             Margin="337,263,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
-            Content="Äggröra" Click="btnÄggröra_Click" />
+            Click="btnÄggröra_Click"
+            Content="Äggröra" />
 
     </Grid>
 </Window>
